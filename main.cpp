@@ -8,7 +8,7 @@ int main() {
     string lastName = "Doe";
     string streetAddress = "123 Maple Street";
     string city = "Springfield";
-    int zipCode = 12345; 
+    int zipCode = 12345;  
 
     cout << "First Name: " << firstName << endl;
     cout << "Last Name: " << lastName << endl;
